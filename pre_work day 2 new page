@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Charly Nunez website</title>
+<style type="text/css">
+	h2{
+		color: green;
+		font-family: fantasy;
+		text-decoration: underline;
+	}
+	p{
+		color: deepskyblue;
+		font-size: 17px;
+	}
+	body{
+		background-color: lightgray;
+	}
+	ul{
+		color: yellowgreen;
+	}
+	tr{
+		color: royalblue;
+	}
+</style>
+	</head>
+<body>
+	<h2> Hobbies </h2>
+	<p>On my free time I like to take and edit pictures but I also enjoy writing poetry or short stories every once in a while. On rare occasioins I also play the piano though I am not very good at it.</p>
+	<table width="50%" border=solid>
+	<tr>
+		<th> Hobbies</th>
+	</tr>
+	<tr>
+		<td>Photography</td>
+	</tr>
+		<tr><td>Writing</td>
+	</tr>
+	<tr>
+		<td>Hiking</td>
+	</tr>
+		<td>Piano</td>
+		<tr>
+		<td>Tennis</td>
+	</tr>
+	</table>	
+	
+	<h2>Favorite movies</h2>
+	<ul>
+		<li>A goofy movie</li>
+		<li>Princess and the frog</li>
+		<li>Matilda</li>
+		<li>Happy Death Day</li>
+<p>As a thanks for visiting my website here are two relaxing music videos for you!</p>
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/VjY3dgHIEoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Mjone_1bgEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>	
+<p> To go back to part 1 click "Part 1" down below.</p>
+<div>
+	<a href="C:\Users\nunezpolancoc\Desktop\Perscholas\Pre_Work\Charly.html"> Part 1</a>
+</div>
+</body>
+</html>
